@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PackPIDPermutator", "PackPIDPermutator\PackPIDPermutator.vcxproj", "{2F380C27-7D09-4AC6-AC7E-2A9EA0DC2E83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F380C27-7D09-4AC6-AC7E-2A9EA0DC2E83}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F380C27-7D09-4AC6-AC7E-2A9EA0DC2E83}.Debug|Win32.Build.0 = Debug|Win32
+		{2F380C27-7D09-4AC6-AC7E-2A9EA0DC2E83}.Release|Win32.ActiveCfg = Debug|Win32
+		{2F380C27-7D09-4AC6-AC7E-2A9EA0DC2E83}.Release|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
